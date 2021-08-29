@@ -1,5 +1,5 @@
 {
-  "name": "Gezo/codemvc",
+  "name": "gezo/codemvc",
     "description": "Micro framwork",
     "require": {
         "php": ">=7.4"
